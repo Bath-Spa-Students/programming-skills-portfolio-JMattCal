@@ -1,0 +1,6 @@
+name=input("matt")
+
+age=input("18")
+
+print ("My , "Name" , "Matt")
+       

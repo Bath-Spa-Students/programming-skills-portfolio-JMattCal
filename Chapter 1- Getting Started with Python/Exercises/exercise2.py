@@ -1,4 +1,7 @@
-word = "hi"
-repeated_word = word * 50  # This will repeat the word "hello" three times without a separator.
-print(repeated_word)
+#write a python program to get the version of python you're currently using
+import sys
+
+print("Python Version:")
+print(sys.version)
+
 
